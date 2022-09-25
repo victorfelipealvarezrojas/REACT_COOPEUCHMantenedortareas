@@ -1,0 +1,46 @@
+{
+  "tareas": [
+    {
+      "id": 6,
+      "descripcion": "tarea editada",
+      "estado": true,
+      "fechainicio": "2022-09-08"
+    },
+    {
+      "id": 7,
+      "descripcion": "nueva tarea",
+      "estado": true,
+      "fechainicio": "2022-09-07"
+    },
+    {
+      "id": 8,
+      "descripcion": "que tarea mas rara",
+      "estado": true,
+      "fechainicio": "2022-09-01"
+    },
+    {
+      "id": 9,
+      "descripcion": "pepito tv",
+      "estado": true,
+      "fechainicio": "2022-09-30"
+    },
+    {
+      "descripcion": "nuw",
+      "fechainicio": "2022-09-24",
+      "estado": true,
+      "id": 10
+    },
+    {
+      "descripcion": "asdass",
+      "fechainicio": "2022-09-24",
+      "estado": true,
+      "id": 11
+    },
+    {
+      "descripcion": "wedsddsd",
+      "fechainicio": "2022-09-24",
+      "estado": true,
+      "id": 12
+    }
+  ]
+}

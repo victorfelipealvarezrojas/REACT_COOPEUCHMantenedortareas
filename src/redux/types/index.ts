@@ -1,0 +1,19 @@
+export const AGREGAR_TAREA          = 'AGREGAR_TAREA'
+export const AGREGAR_TAREA_OK       = 'AGREGAR_TAREA_OK'
+export const AGREGAR_TAREA_ERROR    = 'AGREGAR_TAREA_ERROR'
+
+export const CARGA_TAREA            = 'CARGA_TAREA'
+export const CARGA_TAREA_OK         = 'CARGA_TAREA_OK'
+export const CARGA_TAREA_ERROR      = 'CARGA_TAREA_ERROR'
+
+export const TAREA_ELIMINAR         = 'TAREA_ELIMINAR'
+export const TAREA_ELIMINAR_OK      = 'TAREA_ELIMINAR_OK'
+export const TAREA_ELIMINAR_ERROR   = 'TAREA_ELIMINAR_ERROR'
+
+export const TAREA_EDITAR           = 'TAREA_EDITAR'
+export const INICIO_TAREA_EDICION   = 'INICIO_TAREA_EDICION'
+export const TAREA_EDITAR_OK        = 'TAREA_EDITAR_OK'
+export const TAREA_EDITAR_ERROR     = 'TAREA_EDITAR_ERROR'
+
+export const MOSTRAR_ALERTA = 'MOSTRAR_ALERTA'
+export const OCULTAR_ALERTA = 'MOSTRAR_ALERTA'
